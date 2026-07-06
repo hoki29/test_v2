@@ -2,3 +2,5 @@ test_v2
 -testing create file
 -testing lanjutan
 -testing lagi
+-check
+-final
